@@ -1,0 +1,47 @@
+*{margin:0;padding:0;}
+
+.wrapper{
+	background:#D3D7DA;
+	margin:0 auto;
+	width:960px;
+}
+.float_left{float:left;}
+.float_right{float:right;}
+.fix{overflow:hidden;}
+
+.header{
+	margin-left: 20px;
+	padding-top: 40px;
+	margin-bottom: 30px;
+}
+.logo{
+	width:100px;
+	height:20px;
+	background:black;
+}
+.menu{
+	margin-right:20px;
+}
+.menu01{
+	width: 80px;
+	height: 20px;
+	background: black;
+	margin-right: 10px;
+}
+
+.section{
+	padding:20px;
+}
+.section h2{}
+.section p{}
+
+.content{
+	padding:20px;
+}
+.content01{
+	width: 300px;
+	height: 200px;
+	margin-right: 10px;
+	background: black;
+	margin-bottom: 10px;
+}

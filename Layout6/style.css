@@ -1,0 +1,108 @@
+*{margin:0;padding:0;}
+.float_left{float:left;}
+.float_right{float:right;}
+.fix{overflow:hidden;}
+.body{}
+.center{
+	margin: 0 auto;
+	width:960px;
+}
+.header_section_wrapper{
+	background: url(imgs/ahsan-manzil-full-view.jpg) no-repeat;
+	background-size: 960px 450px;
+	height: 450px;
+	margin-bottom: 40px;
+}
+header{
+	background:url(imgs/bg.png) repeat;
+	width:960px;
+}
+.header{
+	padding: 10px 100px 10px 100px;
+}
+.header_left{
+	margin-top: 10px;
+}
+.header_left_logo{}
+.header_left_logo p{
+	color:#FFFFFF;
+	font-family:WendyLPStd-Medium;
+	font-size: 40px;
+}
+
+.header_right{}
+.header_right_menu{}
+.header_right_menu ul{list-style:none;}
+.header_right_menu ul li{
+	float:left;
+}
+.header_right_menu ul li a{
+	padding:10px 20px;
+	text-decoration:none;
+	display:block;
+	margin-left: 10px;
+	color:#FFFFFF;
+}
+.header_right_menu ul li a:hover, .current{
+	border-bottom:1px solid white;
+}
+
+
+.section{}
+.section_top{}
+.section_top h2{
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 90px;
+	margin-top: 100px;
+	font-family:Freestyle Script;
+}
+.section_top p{
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+.search_box{
+	width: 420px;
+	height: 50px;
+	margin: 0 auto;
+}
+.search_box input[type="text"]{
+	width: 400px;
+	height: 50px;
+	border-radius: 20px;
+	border: none;
+	font-size:20px;
+}
+
+
+
+.content{}
+.content_top{
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	border-bottom: 1px solid gray;
+	width: 300px;
+	margin: 0 auto;
+}
+.content_top h2{
+	font-family: Freestyle Script;
+	font-size: 65px;
+	font-weight: normal;
+}
+.content_top p{
+	margin-bottom: 20px;
+}
+.content_01{
+	margin-top: 30px;
+	width:190px;
+}
+.content_01_wrapper{
+	margin-left: 90px;
+}
+.content_01 img{
+	margin-left:30px;
+}
+.content_01 p{margin-left: 30px;}
